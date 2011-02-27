@@ -4,7 +4,7 @@ gofnv is an implementation of the Fowler-Noll-Vo hash function in the Go program
 
 ## Installation
 
-You can install the package using `goinstall github.com/cskau/gofnv`.
+You can install the packages by using an appropriate variant of `goinstall github.com/cskau/gofnv/fnv1a64`.
 If you do this, the import statement in your go programs will be something like `import github.com/cskau/gofnv/fnv1a64`.
 
 ## Example usage
